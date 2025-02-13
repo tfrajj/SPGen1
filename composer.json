@@ -1,0 +1,16 @@
+{
+    "name": "spgen1/generator",
+    "description": "Static site generator",
+    "authors": [
+        {
+            "name": "Yurii",
+            "email": "tfrajj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SPGen1\\": "src/"
+        }
+    },
+    "require": {}
+}
